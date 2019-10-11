@@ -1,0 +1,176 @@
+ANANTAPUR    Andhra Pradesh
+KARIMNAGAR    Andhra Pradesh
+KHAMMAM    Andhra Pradesh
+NALGONDA    Andhra Pradesh
+NIZAMABAD    Andhra Pradesh
+WARANGAL    Andhra Pradesh
+DIBANG VALLEY    Arunachal Pradesh
+TIRAP    Arunachal Pradesh
+HAILAKANDI    Assam
+MADHUBANI    Bihar
+VAISHALI    Bihar
+KORBA    Chhattisgarh
+NORTH GOA    Goa
+AHMEDABAD    Gujarat
+BHAVNAGAR    Gujarat
+DANGS    Gujarat
+JAMNAGAR    Gujarat
+MAHESANA    Gujarat
+NAVSARI    Gujarat
+PATAN    Gujarat
+PORBANDAR    Gujarat
+RAJKOT    Gujarat
+SURAT    Gujarat
+VALSAD    Gujarat
+BHIWANI    Haryana
+FARIDABAD    Haryana
+GURGAON    Haryana
+HISAR    Haryana
+JHAJJAR    Haryana
+KARNAL    Haryana
+KURUKSHETRA    Haryana
+MAHENDRAGARH    Haryana
+PANCHKULA    Haryana
+PANIPAT    Haryana
+ROHTAK    Haryana
+SIRSA    Haryana
+SONIPAT    Haryana
+BILASPUR    Himachal Pradesh
+CHAMBA    Himachal Pradesh
+HAMIRPUR    Himachal Pradesh
+KANGRA    Himachal Pradesh
+KINNAUR    Himachal Pradesh
+KULLU    Himachal Pradesh
+LAHAUL &amp; SPITI    Himachal Pradesh
+MANDI    Himachal Pradesh
+SHIMLA    Himachal Pradesh
+SOLAN    Himachal Pradesh
+UNA    Himachal Pradesh
+DEOGHAR    Jharkhand
+LOHARDAGA    Jharkhand
+PURBI SINGHBHUM    Jharkhand
+BANGALORE RURAL    Karnataka
+HASSAN    Karnataka
+KOLAR    Karnataka
+MANGALORE(DAKSHINA KANNADA)    Karnataka
+SHIMOGA    Karnataka
+UDUPI    Karnataka
+ALAPPUZHA    Kerala
+ERNAKULAM    Kerala
+IDUKKI    Kerala
+KANNUR    Kerala
+KASARGOD    Kerala
+KOLLAM    Kerala
+KOTTAYAM    Kerala
+KOZHIKODE    Kerala
+MALAPPURAM    Kerala
+PALAKKAD    Kerala
+PATHANAMTHITTA    Kerala
+THIRUVANANTHAPURAM    Kerala
+THRISSUR    Kerala
+WAYANAD    Kerala
+ALIRAJPUR    Madhya Pradesh
+ANUPPUR    Madhya Pradesh
+BARWANI    Madhya Pradesh
+BETUL    Madhya Pradesh
+BHOPAL    Madhya Pradesh
+BURHANPUR    Madhya Pradesh
+DATIA    Madhya Pradesh
+DEWAS    Madhya Pradesh
+DHAR    Madhya Pradesh
+GWALIOR    Madhya Pradesh
+HARDA    Madhya Pradesh
+HOSHANGABAD    Madhya Pradesh
+INDORE    Madhya Pradesh
+JABALPUR    Madhya Pradesh
+JHABUA    Madhya Pradesh
+KATNI    Madhya Pradesh
+KHANDWA(EAST NIMAR)    Madhya Pradesh
+KHARGONE    Madhya Pradesh
+MANDSAUR    Madhya Pradesh
+MORENA    Madhya Pradesh
+NEEMUCH    Madhya Pradesh
+RAISEN    Madhya Pradesh
+RAJGARH    Madhya Pradesh
+RATLAM    Madhya Pradesh
+REWA    Madhya Pradesh
+SEHORE    Madhya Pradesh
+SHAHDOL    Madhya Pradesh
+SHAJAPUR    Madhya Pradesh
+SHEOPUR    Madhya Pradesh
+UJJAIN    Madhya Pradesh
+UMARIA    Madhya Pradesh
+GADCHIROLI    Maharashtra
+RATNAGIRI    Maharashtra
+SINDHUDURG    Maharashtra
+WEST GARO HILLS    Meghalaya
+CHAMPHAI    Mizoram
+LAWNGTLAI    Mizoram
+BARNALA    Punjab
+FATEHGARH SAHIB    Punjab
+HOSHIARPUR    Punjab
+LUDHIANA    Punjab
+NAWANSHAHR    Punjab
+S.A.S Nagar    Punjab
+HANUMANGARH    Rajasthan
+EAST SIKKIM    Sikkim
+NORTH SIKKIM    Sikkim
+SOUTH SIKKIM    Sikkim
+WEST SIKKIM    Sikkim
+DHARMAPURI    Tamil Nadu
+ERODE    Tamil Nadu
+KANCHIPURAM    Tamil Nadu
+KANYAKUMARI(NAGERCOIL)    Tamil Nadu
+KARUR    Tamil Nadu
+NAMAKKAL    Tamil Nadu
+PUDUKKOTTAI    Tamil Nadu
+RAMANATHAPURAM    Tamil Nadu
+TIRUCHIRAPPALLI    Tamil Nadu
+TIRUNELVELI    Tamil Nadu
+TIRUVANNAMALAI    Tamil Nadu
+TIRUVARUR    Tamil Nadu
+DHALAI    Tripura
+SOUTH TRIPURA    Tripura
+WEST TRIPURA    Tripura
+AGRA    Uttar Pradesh
+ALLAHABAD    Uttar Pradesh
+AMBEDKAR NAGAR    Uttar Pradesh
+BALRAMPUR    Uttar Pradesh
+BARABANKI    Uttar Pradesh
+BAREILLY    Uttar Pradesh
+BIJNOR    Uttar Pradesh
+BUDAUN    Uttar Pradesh
+BULANDSHAHR    Uttar Pradesh
+CHANDAULI    Uttar Pradesh
+CHITRAKOOT    Uttar Pradesh
+ETAH    Uttar Pradesh
+ETAWAH    Uttar Pradesh
+FARRUKHABAD    Uttar Pradesh
+FIROZABAD    Uttar Pradesh
+GHAZIABAD    Uttar Pradesh
+HARDOI    Uttar Pradesh
+JAUNPUR    Uttar Pradesh
+JHANSI    Uttar Pradesh
+JYOTIBA PHULE NAGAR    Uttar Pradesh
+KANNAUJ    Uttar Pradesh
+LAKHIMPUR KHERI    Uttar Pradesh
+LUCKNOW    Uttar Pradesh
+MAHAMAYA NAGAR(HATHRAS)    Uttar Pradesh
+MAHARAJGANJ    Uttar Pradesh
+MAHOBA    Uttar Pradesh
+MATHURA    Uttar Pradesh
+MIRZAPUR    Uttar Pradesh
+MORADABAD    Uttar Pradesh
+MUZAFFARNAGAR    Uttar Pradesh
+PILIBHIT    Uttar Pradesh
+PRATAPGARH    Uttar Pradesh
+RAE BARELI    Uttar Pradesh
+SAHARANPUR    Uttar Pradesh
+SHAHJAHANPUR    Uttar Pradesh
+SONBHADRA    Uttar Pradesh
+SULTANPUR    Uttar Pradesh
+NAINITAL    Uttarakhand
+RUDRAPRAYAG    Uttarakhand
+DAKSHIN DINAJPUR    West Bengal
+MIDNAPUR EAST    West Bengal
+MIDNAPUR WEST    West Bengal
